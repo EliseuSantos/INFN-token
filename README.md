@@ -1,5 +1,5 @@
 # INFN Token
-
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue)
 
 Welcome to the INFN Token project! This repository contains a Solidity smart contract to create and manage the INFN (INFINITE) token on the Ethereum blockchain. The INFN Token is an ERC-20 standard token following common specifications for interoperability and compatibility with other platforms and applications.
